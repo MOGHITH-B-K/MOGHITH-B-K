@@ -1,207 +1,179 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24,30&text=MOGHITH%20B%20K&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Data%20Scientist%20•%20Full%20Stack%20Developer&descAlignY=60&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1B2A,100:1B4F72&text=Moghith%20B%20K&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=20&descColor=A9CCE3"/>
+
+</div>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1B2A?style=for-the-badge&logo=vercel&logoColor=white)](https://moghithbk.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moghith-b-k-66b933309/)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOGHITH-B-K)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/6XbXkkxaGZ/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bkmoghith@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919003591669)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Building+AI-Powered+Applications;📊+Turning+Data+Into+Business+Insights;⚡+Machine+Learning+•+Analytics+•+Automation;💻+Full+Stack+Developer+with+Creative+UI+Skills"/>
-
-<br/><br/>
-
-<a href="https://moghithbk.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/MOGHITH-B-K">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/moghith-b-k-66b933309/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:bkmoghith@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/919003591669">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=MOGHITH-B-K&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/MOGHITH-B-K?style=for-the-badge&color=blue"/>
-
-<img src="https://img.shields.io/github/stars/MOGHITH-B-K?style=for-the-badge&color=yellow"/>
+![Profile Views](https://komarev.com/ghpvc/?username=MOGHITH-B-K&label=Profile+Views&color=1B4F72&style=flat-square)
+&nbsp;
+![GitHub Followers](https://img.shields.io/github/followers/MOGHITH-B-K?label=Followers&style=flat-square&color=1B4F72)
+&nbsp;
+![GitHub Stars](https://img.shields.io/github/stars/MOGHITH-B-K?label=Stars&style=flat-square&color=1B4F72)
 
 </div>
 
 ---
 
-# 💫 About Me
+## About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```python
 class MoghithBK:
 
-    def __init__(self):
+    name        = "Moghith B K"
+    location    = "Tamil Nadu, India"
+    languages   = ["Tamil", "Telugu", "English"]
 
-        self.name = "MOGHITH B K"
+    education   = {
+        "degree"     : "B.Tech — AI & Data Science",
+        "university" : "Takshashila University",
+        "period"     : "2023 – 2027"
+    }
 
-        self.role = [
-            "AI Engineer",
-            "Data Scientist",
-            "Full Stack Developer"
-        ]
+    roles       = [
+        "AI Engineer",
+        "Data Scientist",
+        "Full Stack Developer"
+    ]
 
-        self.education = {
-            "degree" : "B.Tech Artificial Intelligence & Data Science",
-            "university" : "Takshashila University",
-            "year" : "2023 - 2027"
-        }
-
-        self.languages = [
-            "Tamil 🇮🇳",
-            "Telugu 🇮🇳",
-            "English 🌍"
-        ]
-
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Data Analytics",
-            "Business Intelligence",
-            "Modern UI/UX"
-        ]
+    interests   = [
+        "Machine Learning",
+        "Business Intelligence",
+        "Modern UI/UX",
+        "Data Analytics",
+        "Automation"
+    ]
 
     def motto(self):
-        return "Build systems that create real-world impact 🚀"
+        return "Build systems that create real-world impact."
 ```
+
+<br clear="right"/>
+
+---
+
+## Tech Stack
+
+**AI & Machine Learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Frontend & Backend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Databases & Analytics**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech Stack | Status |
+|:--------|:------------|:-----------|:------:|
+| 🏪 **AI Billing & Inventory System** | AI-powered billing and inventory analytics platform with predictive management | `Next.js` `TypeScript` `AI` | ✅ Complete |
+| 💪 **FitSphere** | Fitness and posture tracking app with real-time AI analysis | `AI` `Web` `Computer Vision` | ✅ Complete |
+| 🎟️ **Event Management System** | Smart event booking and digital e-ticket platform | `Full Stack` `MySQL` `Node.js` | ✅ Complete |
+| 🎓 **Student Management System** | Student data and attendance management with analytics dashboard | `Web App` `Database` | ✅ Complete |
+| 🌐 **Portfolio Website** | Personal portfolio showcasing projects, skills and certifications | `HTML` `CSS` `JavaScript` | 🚀 Live |
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MOGHITH-B-K&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A9CCE3&icon_color=1B4F72&text_color=C9D1D9"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MOGHITH-B-K&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1B4F72&fire=A9CCE3&currStreakLabel=A9CCE3"/>
+
+<br/><br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOGHITH-B-K&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A9CCE3&text_color=C9D1D9"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MOGHITH-B-K&bg_color=0D1117&color=A9CCE3&line=1B4F72&point=A9CCE3&area=true&hide_border=true&area_color=1B4F72"/>
+
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MOGHITH-B-K&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+
+</div>
+
+---
+
+## Current Focus
+
+```text
+📌  Building AI-Powered Business Tools
+📊  Developing Analytics & BI Dashboards
+🤖  Exploring Advanced Machine Learning Models
+💻  Creating Modern Full Stack Applications
+```
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+I'm open to collaborations, internships, and interesting projects.
 
 <br/>
 
-- 🎓 B.Tech AI & Data Science Student  
-- 🚀 Building AI-powered business applications  
-- 📊 Passionate about Machine Learning & Analytics  
-- ⚡ Full Stack Developer focused on modern UI/UX  
-- 🌍 Languages: Tamil • Telugu • English  
-- 💡 Interested in AI Engineering, Data Science & Automation  
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,nextjs,react,nodejs,html,css,tailwind,mysql,mongodb,tensorflow,pytorch,git,github,vscode,figma&perline=10"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | ✨ Description | 🛠️ Tech |
-|------------|----------------|----------|
-| 🏪 **AI Billing & Inventory System** | Smart AI-powered billing & inventory analytics platform with predictive inventory management | `Next.js` `TypeScript` `Analytics` |
-| 📊 **Portfolio Website** | Personal portfolio showcasing projects, skills & certifications | `HTML` `CSS` `JavaScript` |
-| 💪 **FitSphere** | Fitness & posture tracking application with AI integration | `AI` `Web` |
-| 🎟️ **Event Management System** | Smart event booking & digital e-ticket platform | `Full Stack` |
-| 🎓 **Student Management System** | Student data & attendance management system | `Web App` |
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MOGHITH-B-K&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-
-</div>
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MOGHITH-B-K&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MOGHITH-B-K&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
-
-<br/><br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOGHITH-B-K&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
-
-</div>
-
----
-
-# 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MOGHITH-B-K&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Current Focus
-
-<div align="center">
-
-```txt
-🚀 Building AI-Powered Business Tools
-📊 Working on Analytics Dashboards
-⚡ Exploring Machine Learning Models
-💻 Creating Modern Full Stack Applications
-```
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://moghithbk.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00F7FF?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/moghith-b-k-66b933309/">
-<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge"/>
-</a>
-
-<a href="mailto:bkmoghith@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-Say_Hello-D14836?style=for-the-badge"/>
-</a>
-
-<a href="https://wa.me/919003591669">
-<img src="https://img.shields.io/badge/💬_WhatsApp-Chat-25D366?style=for-the-badge"/>
-</a>
+[![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-0D1B2A?style=for-the-badge&logo=vercel&logoColor=white)](https://moghithbk.vercel.app/)
+&nbsp;
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moghith-b-k-66b933309/)
+&nbsp;
+[![Send an Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bkmoghith@gmail.com)
 
 </div>
 
@@ -209,8 +181,8 @@ class MoghithBK:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=6,12,20,24,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1B2A,100:1B4F72"/>
 
-### ⭐ BUILD • LEARN • INNOVATE • REPEAT ⭐
+*"Build systems that create real-world impact."*
 
 </div>

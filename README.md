@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1B2A?style=for-the-badge&logo=vercel&logoColor=white)](https://moghithbk.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moghith-b-k-66b933309/)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOGHITH-B-K)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/6XbXkkxaGZ/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MOGHITH_B_K/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bkmoghith@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919003591669)
 
@@ -20,6 +20,8 @@
 ![GitHub Followers](https://img.shields.io/github/followers/MOGHITH-B-K?label=Followers&style=flat-square&color=1B4F72)
 &nbsp;
 ![GitHub Stars](https://img.shields.io/github/stars/MOGHITH-B-K?label=Stars&style=flat-square&color=1B4F72)
+&nbsp;
+![LeetCode Solved](https://img.shields.io/badge/LeetCode_Solved-24-FFA116?style=flat-square&logo=leetcode&logoColor=black)
 
 </div>
 
@@ -55,6 +57,13 @@ class MoghithBK:
         "Data Analytics",
         "Automation"
     ]
+
+    competitive_programming = {
+        "platform"  : "LeetCode",
+        "handle"    : "MOGHITH_B_K",
+        "solved"    : 24,
+        "languages" : ["Python", "C++"]
+    }
 
     def motto(self):
         return "Build systems that create real-world impact."
@@ -100,6 +109,15 @@ class MoghithBK:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Problem Solving**
+
+![DP](https://img.shields.io/badge/Dynamic_Programming-1B4F72?style=flat-square)
+![Divide & Conquer](https://img.shields.io/badge/Divide_%26_Conquer-1B4F72?style=flat-square)
+![Trie](https://img.shields.io/badge/Trie-1B4F72?style=flat-square)
+![Hash Table](https://img.shields.io/badge/Hash_Table-1B4F72?style=flat-square)
+![Trees](https://img.shields.io/badge/Trees-1B4F72?style=flat-square)
+![Sorting](https://img.shields.io/badge/Sorting-1B4F72?style=flat-square)
 
 ---
 
@@ -150,6 +168,22 @@ class MoghithBK:
 
 ---
 
+## Competitive Programming — LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/MOGHITH_B_K?theme=dark&font=baloo2&extra=true" alt="LeetCode Stats"/>
+
+</div>
+
+- 🧩 **24 problems solved** — Python (21) · C++ (3)
+- 🏗️ **Fundamentals:** Array, Sorting, String
+- ⚙️ **Intermediate:** Math, Hash Table, Tree
+- 🚀 **Advanced:** Divide and Conquer, Dynamic Programming, Trie
+- 🔗 Profile: [leetcode.com/u/MOGHITH_B_K](https://leetcode.com/u/MOGHITH_B_K/)
+
+---
+
 ## Current Focus
 
 ```text
@@ -157,6 +191,7 @@ class MoghithBK:
 📊  Developing Analytics & BI Dashboards
 🤖  Exploring Advanced Machine Learning Models
 💻  Creating Modern Full Stack Applications
+🧠  Strengthening DSA & Problem-Solving on LeetCode
 ```
 
 ---
@@ -172,6 +207,8 @@ I'm open to collaborations, internships, and interesting projects.
 [![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-0D1B2A?style=for-the-badge&logo=vercel&logoColor=white)](https://moghithbk.vercel.app/)
 &nbsp;
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moghith-b-k-66b933309/)
+&nbsp;
+[![Solve with me on LeetCode](https://img.shields.io/badge/Solve_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MOGHITH_B_K/)
 &nbsp;
 [![Send an Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bkmoghith@gmail.com)
 
